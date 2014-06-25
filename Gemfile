@@ -8,6 +8,7 @@ end
 gem 'sqlite3', group: :development
 # gem 'activerecord-jdbcmysql-adapter', platform: :jruby
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+
 gem 'rails', '4.1.1'
 # Use jdbcsqlite3 as the database for Active Record
 # gem 'activerecord-jdbcsqlite3-adapter'
